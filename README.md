@@ -15,6 +15,12 @@ IRIS stands for "Integration of Remote systems into Infection control Software" 
 
 This repository is used as a client library to handle the connection with the IRIS gateway
 
+> :warning: IMPORTANT NOTE :warning: This project moved to [iris-gateway/IRIS-library-js](https://github.com/iris-gateway/IRIS-library-js).
+>
+> Please find new versions, documentation and issues there.
+>
+> The npm package name and organization were not touched and it can be still added via `@inog/iris-library-js`
+
 ## Purpose
 
 To help interact with the IRIS Gateway this helper library abstracts aspects of the interaction with the IRIS Gateway like encryption. This way you can just send the data without worrying about the annoying stuff.
